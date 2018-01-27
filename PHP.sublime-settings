@@ -1,0 +1,11 @@
+// These settings override both User and Default settings for the PHP syntax
+{
+    "wrap_width": 120,
+    "word_wrap": "true",
+    "rulers": [80, 120],
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "default_line_ending": "unix",
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+}

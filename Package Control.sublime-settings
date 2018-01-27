@@ -1,0 +1,27 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "A File Icon",
+        "ApacheConf",
+        "Base16 Eighties Dark Color Scheme",
+        "BracketHighlighter",
+        "Emmet",
+        "GitGutter",
+        "Laravel Blade Highlighter",
+        "Markdown Preview",
+        "Package Control",
+        "SCSS",
+        "SideBarEnhancements",
+        "SublimeLinter",
+        "SublimeLinter-annotations",
+        "SublimeLinter-csslint",
+        "SublimeLinter-jshint",
+        "SublimeLinter-json",
+        "SublimeLinter-php",
+        "Theme - Soda"
+    ]
+}
